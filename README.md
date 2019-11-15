@@ -22,5 +22,5 @@ having a given list of reasoning would affect the choice of the user.
 ## Evaluation
 
 The data was processed and evaluated in python. The data can be found in the folders Task1 and Task2, 
-the combined data can be found in the folder Combined. The data was evaluated in Python and interactively plotted.
+the combined data can be found in the folder Combined. The data was evaluated in Python and interactively plotted, so I highly suggest that one downloads and runs the code to access the dynamic version of the plots.
 
